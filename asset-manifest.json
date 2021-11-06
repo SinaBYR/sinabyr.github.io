@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fd9d0a6.chunk.css",
+    "main.css": "/static/css/main.68c62d94.chunk.css",
     "main.js": "/static/js/main.2a6ff510.chunk.js",
     "main.js.map": "/static/js/main.2a6ff510.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3212e435.js",
@@ -10,14 +10,14 @@
     "static/js/3.c1220c39.chunk.js": "/static/js/3.c1220c39.chunk.js",
     "static/js/3.c1220c39.chunk.js.map": "/static/js/3.c1220c39.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7fd9d0a6.chunk.css.map": "/static/css/main.7fd9d0a6.chunk.css.map",
+    "static/css/main.68c62d94.chunk.css.map": "/static/css/main.68c62d94.chunk.css.map",
     "static/js/2.25aaa7ef.chunk.js.LICENSE.txt": "/static/js/2.25aaa7ef.chunk.js.LICENSE.txt",
-    "static/media/Contact.module.css": "/static/media/alessio-soggetti-gdE-5Oui1Y0-unsplash.e7f70bc9.jpg"
+    "static/media/Contact.module.css": "/static/media/alessio-soggetti-gdE-5Oui1Y0-unsplash.4df30ac6.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.3212e435.js",
     "static/js/2.25aaa7ef.chunk.js",
-    "static/css/main.7fd9d0a6.chunk.css",
+    "static/css/main.68c62d94.chunk.css",
     "static/js/main.2a6ff510.chunk.js"
   ]
 }
