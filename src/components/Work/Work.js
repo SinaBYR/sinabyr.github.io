@@ -36,7 +36,7 @@ const Work = () => {
         return (
             <Project key={_id} title={title} code={code} demo={demo} description={description} tech={tech} preview={preview}/>
         )
-    })
+    }).reverse()
 
     return (
         <main
